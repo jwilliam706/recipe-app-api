@@ -5,6 +5,7 @@ API with Django rest framework
 ## Project Setup
 
 docker build .
+
 docker-compose build
 
 ### Commands
